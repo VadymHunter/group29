@@ -2,3 +2,4 @@
 updated by Leon
 
 - Andrei Bakhtinov
+- Stanislav Slavezki
