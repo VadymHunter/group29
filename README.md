@@ -1,4 +1,9 @@
 # group29
-updated by Leon
+
 
 - Leon Zuev
+ vadym/conglict
+- Vadym
+- Andrei Bakhtinov
+- Stanislav Slavezki
+
