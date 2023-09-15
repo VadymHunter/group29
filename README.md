@@ -1,11 +1,9 @@
 # group29
-updated by Leon
 
 - Serhii Poryvaiev
--Viktoriia Semendiaieva
+- Viktoriia Semendiaieva
 - Leon Zuev
- vadym/conglict
-- Vadym
+- Vadym Naumenko
 - Andrei Bakhtinov
 - Stanislav Slavezki
 
