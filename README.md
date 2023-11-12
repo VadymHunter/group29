@@ -5,6 +5,5 @@
  vadym/conglict
 - Vadym
 - Andrei Bakhtinov
-- Stanislav Slavezki
 
 
